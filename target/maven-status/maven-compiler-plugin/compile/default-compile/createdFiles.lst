@@ -1,0 +1,5 @@
+co\edu\escuelaing\websocketsprimer\components\TimedMessageBroker.class
+co\edu\escuelaing\websocketsprimer\WSStartApp.class
+co\edu\escuelaing\websocketsprimer\WebController.class
+co\edu\escuelaing\websocketsprimer\endpoints\TimerEndpoint.class
+co\edu\escuelaing\websocketsprimer\configuration\WSConfigurator.class
